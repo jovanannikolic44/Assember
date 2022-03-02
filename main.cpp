@@ -1,5 +1,3 @@
-// start project with ./assembler -o output.o inputFile.s
-
 #include <fstream>
 #include <iostream>
 #include <list>
